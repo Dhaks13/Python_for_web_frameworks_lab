@@ -2,7 +2,7 @@
 Write a Python program to exhibit the functional behavior of all the arithmetic
 operators (+, -, *, /, //, **) and their order of precedence.
 """
-
+#Geting User Input for a and b
 a = int(input("enter a number:"))
 b = int(input("Enter another number:"))
 
